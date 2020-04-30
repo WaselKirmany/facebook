@@ -1,17 +1,1 @@
-jazoest=2660
-lsd=AVrAPBSe
-email=1234
-timezone=-390
-lgndim=eyJ3IjoxNjAwLCJoIjo5MDAsImF3IjoxNjAwLCJhaCI6ODYwLCJjIjoyNH0=
-lgnrnd=192232_oOP7
-lgnjs=1586661806
-ab_test_data=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//AfffAEAA
-locale=en_GB
-next=https://www.facebook.com/
-login_source=login_bluebar
-guid=f2de83944f9ca74
-prefill_contact_point=
-prefill_source=
-prefill_type=
-ep=#PWD_BROWSER:5:1586661812:AQRQANIQk6lqzpZa7l/Gf+TLicevmvNS0mDWj7oBOnkC9SotKLKLufNZ13J4FZQVqWgW6feJRC+dsxOYxfqKLUeAIEeq9NIWm0Zt5I84xNojK+SfTqDA6pq5gw1y62+M5aPHN7JgZc4=
 
